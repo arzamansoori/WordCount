@@ -22,7 +22,7 @@ Wordcount Website helps you to count the characters you provide with or without 
 #
 To use WordCount website or to see the project. Please click on the deployed link below.
 
-[COUNTDOWN](https://stopwatchwebsite.netlify.app/)
+[WordCount](https://wordcountwebsite.netlify.app/)
 <br>
 <br>
 <!-- ![STOPWATCH Website Image](./stopwatch.png) -->
